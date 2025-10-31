@@ -1,2 +1,2 @@
 # PTPhishing
-Portuguese-specific intel collected by PT nerds :)
+Portugal-specific intel collected by PT nerds :)
